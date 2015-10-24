@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tcushman.github.io
+title: TinyTest
+tagline: A log of everyday life
+description: An Experiment
+paginate: 6
